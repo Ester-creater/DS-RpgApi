@@ -1,11 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "5zhawu3dUrU=",
+  "dgSpecHash": "f/TI05Hpj20=",
   "success": true,
-  "projectFilePath": "D:\\2DS dudinha e heloisa\\DS-I-Desenvolvimento de sistema\\RpgApi\\RpgApi.csproj",
+  "projectFilePath": "C:\\Users\\heloe\\DS-RpgApi\\RpgApi.csproj",
   "expectedPackageFiles": [
-    "D:\\NugetPackages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
-    "D:\\NugetPackages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
+    "C:\\Users\\heloe\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.3\\microsoft.aspnetcore.openapi.9.0.3.nupkg.sha512",
+    "C:\\Users\\heloe\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512"
   ],
   "logs": []
 }

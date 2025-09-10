@@ -31,3 +31,37 @@ D:\2DS dudinha e heloisa\DS-I-Desenvolvimento de sistema\RpgApi\obj\Debug\net9.0
 D:\2DS dudinha e heloisa\DS-I-Desenvolvimento de sistema\RpgApi\obj\Debug\net9.0\RpgApi.pdb
 D:\2DS dudinha e heloisa\DS-I-Desenvolvimento de sistema\RpgApi\obj\Debug\net9.0\RpgApi.genruntimeconfig.cache
 D:\2DS dudinha e heloisa\DS-I-Desenvolvimento de sistema\RpgApi\obj\Debug\net9.0\ref\RpgApi.dll
+C:\Users\heloe\DS-RpgApi\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\heloe\DS-RpgApi\bin\Debug\net9.0\appsettings.json
+C:\Users\heloe\DS-RpgApi\bin\Debug\net9.0\RpgApi.staticwebassets.endpoints.json
+C:\Users\heloe\DS-RpgApi\bin\Debug\net9.0\RpgApi.exe
+C:\Users\heloe\DS-RpgApi\bin\Debug\net9.0\RpgApi.deps.json
+C:\Users\heloe\DS-RpgApi\bin\Debug\net9.0\RpgApi.runtimeconfig.json
+C:\Users\heloe\DS-RpgApi\bin\Debug\net9.0\RpgApi.dll
+C:\Users\heloe\DS-RpgApi\bin\Debug\net9.0\RpgApi.pdb
+C:\Users\heloe\DS-RpgApi\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\heloe\DS-RpgApi\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.csproj.AssemblyReference.cache
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.AssemblyInfoInputs.cache
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.AssemblyInfo.cs
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.csproj.CoreCompileInputs.cache
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.sourcelink.json
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\scopedcss\bundle\RpgApi.styles.css
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\staticwebassets\msbuild.RpgApi.Microsoft.AspNetCore.StaticWebAssetEndpoints.props
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\staticwebassets\msbuild.build.RpgApi.props
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\staticwebassets\msbuild.buildMultiTargeting.RpgApi.props
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\staticwebassets\msbuild.buildTransitive.RpgApi.props
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\staticwebassets.pack.json
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.csproj.Up2Date
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.dll
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\refint\RpgApi.dll
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.pdb
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\RpgApi.genruntimeconfig.cache
+C:\Users\heloe\DS-RpgApi\obj\Debug\net9.0\ref\RpgApi.dll
